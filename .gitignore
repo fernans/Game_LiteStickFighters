@@ -1,0 +1,13 @@
+# === Excluded by request (personal / private) ===
+# Personal photos of the children (reference material, not for publication)
+fotos/
+
+# === Excluded: packaged as a GitHub Release asset instead ===
+juego.zip
+
+# === OS junk ===
+Thumbs.db
+Desktop.ini
+.DS_Store
+._*
+__MACOSX/
